@@ -1,5 +1,5 @@
-Extraction of caffeine from Tea leaves/coffee powder<br>
-Qualitative and quantitative analysis of caffeine<br>
+(a) Extraction of caffeine from Tea leaves/coffee powder<br>
+(b) Qualitative and quantitative analysis of caffeine<br>
 A stock solution of caffeine was prepared by dissolving caffeine (1 mg) in methanol (100 ml) in a volumetric flask. The solution was sonicated for 10 minutes over an ultrasonic bath, to obtain a homogenous solution.Similarly, the crystalline caffeine samples (extracted from tea/coffee) were dissolved in methanol and then sonicated for 10 min.<br>
 The solution was filtered through Whatman No. 41 filter paper and filtrate was used as sample solution.<br>
 A 20cm × 10cm aluminium backed HPTLC plate coated with silica gel.<br>
