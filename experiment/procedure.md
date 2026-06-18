@@ -48,7 +48,7 @@ Use of pre-coated silica gel HPTLC plates with Toluene: Acetone:: 4:1, resulted 
 
 ![Project Screenshot](images/obs2.png)
 
-![Project Screenshot](images/obs3.png)
+![Project Screenshot](images/obs_new.png)
 
 
 <b>RESULTS:</b> Caffeine content in tea and coffee extract samples was found to be 8 and 12 mg/g with standard deviation 1.79 respectively.
