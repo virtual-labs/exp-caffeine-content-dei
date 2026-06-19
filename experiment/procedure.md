@@ -44,11 +44,24 @@
 
 Use of pre-coated silica gel HPTLC plates with Toluene: Acetone:: 4:1, resulted in good separation of the caffeine at 275 nm (Rf = 0.13). The absence of additional peaks in chromatogram indicates non- interference of the common excipients used. Regression analysis of the calibration data for caffeine showed that the dependent variable (peak area) and the independent variable (concentration) were represented by the equations Y = 194.5 + 14.92 x for caffeine in tea and coffee. The correlation of coefficient (r2) obtained was 0.998 shows a good linear relationship.
 
-![Project Screenshot](images/obs1.png)
 
-![Project Screenshot](images/obs2.png)
+<div align="center">
+  <img src="images/obs1.png" alt="Theory Image" width="600">
+   **Fig. 1**
+</div>
 
-![Project Screenshot](images/obs_new.png)
+
+<div align="center">
+  <img src="images/obs2.png" alt="Theory Image" width="600">
+  **Fig. 2**
+</div>
+
+
+<div align="center">
+  <img src="images/obs_new.png" alt="Theory Image" width="600">
+   **Fig. 3**
+</div>
+
 
 
 <b>RESULTS:</b> Caffeine content in tea and coffee extract samples was found to be 8 and 12 mg/g with standard deviation 1.79 respectively.
