@@ -54,7 +54,7 @@ Use of pre-coated silica gel HPTLC plates with Toluene: Acetone:: 4:1, resulted 
 
 <div align="center">
   <img src="images/obs2.png" alt="Theory Image" width="600">
-  
+ 
   **Fig. 2**
 </div>
 
