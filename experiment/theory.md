@@ -1,4 +1,4 @@
-### REAGENTS REQUIRED:
+### Reagents
 
 
 - Caffeine standard
