@@ -1,4 +1,4 @@
-### References
+## References
 
 
 1. Erowid. Caffeine Content of Beverages, Foods, & Medications. 2006. The Vaults of Erowid.
