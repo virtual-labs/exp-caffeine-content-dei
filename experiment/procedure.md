@@ -1,7 +1,7 @@
-### Procedure
+## Procedure
 
 
-#### (a) Extraction of caffeine from Tea leaves/coffee powder
+### (a) Extraction of caffeine from Tea leaves/coffee powder
 
 <table>
   <tr>
@@ -25,7 +25,7 @@
  
 </table>
 
-#### (b) Qualitative and quantitative analysis of caffeine
+### (b) Qualitative and quantitative analysis of caffeine
 
 
 
