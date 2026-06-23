@@ -16,7 +16,7 @@
         "d": "Correct. HPTLC is superior in separation efficiency, resolution, and scanning capabilities."
       },
       "correctAnswer": "d",
-      "difficulty": "beginner"
+      
     },
     {
       "question": "2. Which loading gas is used in HPTLC?",
@@ -33,7 +33,7 @@
         "d": "Correct. Nitrogen is commonly used as the loading gas in HPTLC sample applicators."
       },
       "correctAnswer": "d",
-      "difficulty": "beginner"
+      
     },
     {
       "question": "3. Caffeine is a",
@@ -50,7 +50,7 @@
         "d": "Incorrect."
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      
     },
     {
       "question": "4. Caffeine is found in",
@@ -67,7 +67,7 @@
         "d": "Correct. Caffeine is commonly found in all these beverages."
       },
       "correctAnswer": "d",
-      "difficulty": "beginner"
+     
     },
     {
       "question": "5. Permitted dose of caffeine",
@@ -84,7 +84,7 @@
         "d": "Excessive intake may produce adverse effects."
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+   
     }
   ]
 }
