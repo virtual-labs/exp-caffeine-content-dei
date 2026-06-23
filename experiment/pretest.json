@@ -16,7 +16,7 @@
         "d": "Incorrect. One of the statements is correct."
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+     
     },
     {
       "question": "2. Rf value is close to 1, then what happened?",
@@ -33,7 +33,7 @@
         "d": "Incorrect. One option is correct."
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      
     },
     {
       "question": "3. Rf value is affected by",
@@ -50,7 +50,7 @@
         "d": "Correct. Solvent polarity, chamber saturation, and pH can all influence Rf values."
       },
       "correctAnswer": "d",
-      "difficulty": "beginner"
+      
     },
     {
       "question": "4. If TLC spots are too high, i.e., too near the solvent front, then what can I do now?",
@@ -67,7 +67,7 @@
         "d": "Incorrect because increasing solvent polarity is not appropriate here."
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+     
     },
     {
       "question": "5. Do impurities affect the Rf values?",
@@ -84,7 +84,7 @@
         "d": "Incorrect."
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+    
     }
   ]
 }
