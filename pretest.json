@@ -1,0 +1,85 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Rf value is less than one because -",
+      "answers": {
+        "a": "Distance covered by the solute is more than solvent front",
+        "b": "Distance covered by solvent front is more than distance covered by solute",
+        "c": "Both of them",
+        "d": "None of them"
+      },
+      "explanations": {
+        "a": "Incorrect. The solute cannot travel farther than the solvent front.",
+        "b": "Correct. Rf is the ratio of distance traveled by the solute to the distance traveled by the solvent front, so it is usually less than 1.",
+        "c": "Incorrect. Only the second statement is true.",
+        "d": "Incorrect. One of the statements is correct."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "2. Rf value is close to 1, then what happens?",
+      "answers": {
+        "a": "Good separation occurs",
+        "b": "No separation occurs",
+        "c": "Separation does not depend on Rf",
+        "d": "None of them"
+      },
+      "explanations": {
+        "a": "Incorrect. Very high Rf values generally indicate poor separation.",
+        "b": "Correct. When the spot is too close to the solvent front, separation is usually poor.",
+        "c": "Incorrect. Rf values influence chromatographic separation.",
+        "d": "Incorrect. One option is correct."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "3. Rf value is affected by -",
+      "answers": {
+        "a": "Polarity of solvent",
+        "b": "Saturation period of chamber",
+        "c": "pH of the solution",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "This factor affects Rf values but is not the only one.",
+        "b": "This factor affects Rf values but is not the only one.",
+        "c": "This factor affects Rf values but is not the only one.",
+        "d": "Correct. Solvent polarity, chamber saturation, and pH can all influence Rf values."
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "4. If TLC spots are too high, i.e., too near the solvent front, then what can I do now?",
+      "answers": {
+        "a": "Increase the polarity of solvent",
+        "b": "Decrease the polarity of solvent",
+        "c": "Increase the plate size",
+        "d": "All above"
+      },
+      "explanations": {
+        "a": "Incorrect. Increasing polarity usually makes spots move even higher.",
+        "b": "Correct. Decreasing solvent polarity generally lowers the Rf value and improves separation.",
+        "c": "May help in some cases, but it is not the primary solution.",
+        "d": "Incorrect because increasing solvent polarity is not appropriate here."
+      },
+      "correctAnswer": "b"
+    },
+    {
+      "question": "5. Do impurities affect the Rf values?",
+      "answers": {
+        "a": "Yes, always",
+        "b": "Yes, sometimes",
+        "c": "No",
+        "d": "None"
+      },
+      "explanations": {
+        "a": "Incorrect. Impurities do not always affect Rf values.",
+        "b": "Correct. Depending on the nature and amount of impurities, Rf values may be altered.",
+        "c": "Incorrect. Impurities can affect chromatographic behavior.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "b"
+    }
+  ]
+}

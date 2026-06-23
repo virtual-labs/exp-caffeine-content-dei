@@ -1,0 +1,85 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. HPTLC is superior than TLC in terms of -",
+      "answers": {
+        "a": "Separation area",
+        "b": "Resolution",
+        "c": "Scanning",
+        "d": "All above"
+      },
+      "explanations": {
+        "a": "HPTLC provides improved separation efficiency.",
+        "b": "HPTLC offers better resolution than conventional TLC.",
+        "c": "HPTLC allows densitometric scanning and quantification.",
+        "d": "Correct. HPTLC is superior in separation efficiency, resolution, and scanning capabilities."
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "2. Which loading gas is used in HPTLC?",
+      "answers": {
+        "a": "H2",
+        "b": "O2",
+        "c": "He",
+        "d": "N2"
+      },
+      "explanations": {
+        "a": "Incorrect.",
+        "b": "Incorrect.",
+        "c": "Incorrect.",
+        "d": "Correct. Nitrogen is commonly used as the loading gas in HPTLC sample applicators."
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "3. Caffeine is a -",
+      "answers": {
+        "a": "Alkaloids",
+        "b": "Terpenoids",
+        "c": "Flavanoids",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. Caffeine is a naturally occurring purine alkaloid.",
+        "b": "Incorrect.",
+        "c": "Incorrect.",
+        "d": "Incorrect."
+      },
+      "correctAnswer": "a"
+    },
+    {
+      "question": "4. Caffeine is found in -",
+      "answers": {
+        "a": "Coffee",
+        "b": "Energy Drinks",
+        "c": "Soft drinks",
+        "d": "All of above"
+      },
+      "explanations": {
+        "a": "Coffee contains caffeine.",
+        "b": "Many energy drinks contain caffeine.",
+        "c": "Several soft drinks contain caffeine.",
+        "d": "Correct. Caffeine is commonly found in all these beverages."
+      },
+      "correctAnswer": "d"
+    },
+    {
+      "question": "5. Permitted dose of caffeine is -",
+      "answers": {
+        "a": "1 mg/kg of body weight",
+        "b": "2 mg/kg of body weight",
+        "c": "5 mg/kg of body weight",
+        "d": "10 mg/kg of body weight"
+      },
+      "explanations": {
+        "a": "Lower than the commonly accepted limit.",
+        "b": "Below the generally accepted maximum dose.",
+        "c": "Correct. Around 5 mg/kg body weight is often considered a safe upper intake level.",
+        "d": "Excessive intake may produce adverse effects."
+      },
+      "correctAnswer": "c"
+    }
+  ]
+}
