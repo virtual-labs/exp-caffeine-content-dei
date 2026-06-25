@@ -18,7 +18,7 @@ Caffeine (1, 3, 7-trimethylxanthine) is a pharmacologically active substance hav
 
 
 <div align="center">
-  <img src="images/formula1.png" alt="Theory Image" width="600">
+  <img src="images/formula1.png" alt="Theory Image" width="200">
 </div>
 
 

@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Rf value is less than one because",
+      "question": "1. Rf value is less than one because -",
       "answers": {
         "a": "Distance covered by the solute is more than solvent front",
         "b": "Distance covered by solvent front is more than distance covered by solute",
@@ -15,11 +15,10 @@
         "c": "Incorrect. Only the second statement is true.",
         "d": "Incorrect. One of the statements is correct."
       },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
+      "correctAnswer": "b"
     },
     {
-      "question": "2. Rf value is close to 1, then what happened?",
+      "question": "2. Rf value is close to 1, then what happens?",
       "answers": {
         "a": "Good separation occurs",
         "b": "No separation occurs",
@@ -32,11 +31,10 @@
         "c": "Incorrect. Rf values influence chromatographic separation.",
         "d": "Incorrect. One option is correct."
       },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
+      "correctAnswer": "b"
     },
     {
-      "question": "3. Rf value is affected by",
+      "question": "3. Rf value is affected by -",
       "answers": {
         "a": "Polarity of solvent",
         "b": "Saturation period of chamber",
@@ -49,8 +47,7 @@
         "c": "This factor affects Rf values but is not the only one.",
         "d": "Correct. Solvent polarity, chamber saturation, and pH can all influence Rf values."
       },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
+      "correctAnswer": "d"
     },
     {
       "question": "4. If TLC spots are too high, i.e., too near the solvent front, then what can I do now?",
@@ -66,8 +63,7 @@
         "c": "May help in some cases, but it is not the primary solution.",
         "d": "Incorrect because increasing solvent polarity is not appropriate here."
       },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
+      "correctAnswer": "b"
     },
     {
       "question": "5. Do impurities affect the Rf values?",
@@ -83,8 +79,7 @@
         "c": "Incorrect. Impurities can affect chromatographic behavior.",
         "d": "Incorrect."
       },
-      "correctAnswer": "b",
-      "difficulty": "beginner"
+      "correctAnswer": "b"
     }
   ]
 }
